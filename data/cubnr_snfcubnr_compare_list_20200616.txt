@@ -1,4 +1,4 @@
-CU Banner	Ingested		
+Ingested		
 ALUMNI.AABCTRL			
 ALUMNI.AABDINS			
 ALUMNI.AABDUES			
